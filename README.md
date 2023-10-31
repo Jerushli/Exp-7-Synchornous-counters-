@@ -105,7 +105,8 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 #### UP COUNTER:
-![image](https://github.com/ATHMAJ03/Exp-7-Synchornous-counters-/assets/118753139/87e978f7-3a69-429d-b103-97759ddcfaa3)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/21a764f7-7623-4773-9c1a-5596fa793a0c)
+
 
 
 #### DOWN COUNTER:
