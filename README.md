@@ -109,7 +109,7 @@ endmodule
 
 
 #### DOWN COUNTER:
-![image](https://github.com/ATHMAJ03/Exp-7-Synchornous-counters-/assets/118753139/83caeda7-7ecf-4445-a2a4-4e7a1ff31b7a)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/c50e6119-92fa-4325-8d4f-48bda2c535c5)
 
 
 
