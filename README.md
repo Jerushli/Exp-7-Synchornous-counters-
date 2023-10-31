@@ -114,7 +114,7 @@ endmodule
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
+### TIMING DIAGRAMS FOR COUNTER  
 #### UP COUNTER
 ![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/32c085a6-28b6-471b-a0f6-f4eaf69998ee)
 
