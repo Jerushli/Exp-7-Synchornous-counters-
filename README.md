@@ -116,11 +116,12 @@ endmodule
 
 ### TIMING DIGRAMS FOR COUNTER  
 #### UP COUNTER
-![image](https://github.com/ATHMAJ03/Exp-7-Synchornous-counters-/assets/118753139/cf617a88-0d0c-4486-b5b7-85afb6e4eed8)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/32c085a6-28b6-471b-a0f6-f4eaf69998ee)
 
 
 #### DOWN COUNTER
-![image](https://github.com/ATHMAJ03/Exp-7-Synchornous-counters-/assets/118753139/cd9c174e-2ad3-4a5e-8b21-a7218f621308)
+![image](https://github.com/Jaiganesh235/Exp-6-Synchornous-counters-/assets/118657189/715ea572-9659-4786-a87d-e490376a0ffd)
+
 
 
 ### TRUTH TABLE 
