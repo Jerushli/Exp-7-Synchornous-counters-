@@ -1,6 +1,6 @@
 ```
-NAME : S.JAIGANESH
-REGISTER NO : 212222240037
+NAME : JERUSHLIN JOSE JB
+REGISTER NO : 212222240039
 ```
 # Exp-6-SYNCHORNOUS-COUNTERS - UP COUNTER AND DOWN COUNTER 
 ### AIM: 
@@ -70,8 +70,8 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: S.JAIGANESH
-RegisterNumber: 212222240037
+Developed by: JERUSHLIN JOSE JB
+RegisterNumber: 212222240039
 */
 ```
 #### UP COUNTER:
